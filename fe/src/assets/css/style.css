@@ -1,0 +1,13 @@
+button > i:hover, button > i:active, .router-link-active > i{
+    color: #e6a039 !important
+}
+button > i:hover{
+    transform: scale(1.15)
+}
+button::before, .v-btn::before
+button::after, .v-btn::after {
+    background-color: transparent
+}
+.cursor-pointer{
+    cursor: pointer
+}

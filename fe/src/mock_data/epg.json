@@ -1,0 +1,31 @@
+{
+    "channels": [
+        {
+            "id": "sky1",
+            "title": "Sky 1",
+            "images": {
+                "logo": "https://img.noriginmedia.com/cloudberry/logo_sky1.png"
+            },
+            "schedules": [
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id",
+                    "start": "2021-12-17T18:00:00+01:00",
+                    "end": "2021-12-17T19:00:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id",
+                    "start": "2021-12-17T21:50:00+01:00",
+                    "end": "2021-12-17T21:40:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id",
+                    "start": "2021-12-17T01:40:00+01:00",
+                    "end": "2021-12-17T02:10:00+01:00"
+                }
+            ]
+        }
+    ]
+}

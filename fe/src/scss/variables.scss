@@ -1,0 +1,13 @@
+@import '~vuetify/src/styles/styles.sass';
+.theme--dark.v-btn.v-btn--icon:hover,
+.theme--dark.v-btn.v-btn--icon:active{
+    color: var(--v-accent-base)
+}
+:root{
+    --hour-width: 300px;
+    --hours-height: 40px;
+    --row-height: 60px;
+}
+.v-application .primary--text{
+    color: white !important;
+}
